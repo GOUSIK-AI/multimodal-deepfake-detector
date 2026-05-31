@@ -1,0 +1,17 @@
+env/
+__pycache__/
+
+DeepfakeBench/
+
+backend/datasets/
+backend/deepfake_model/
+backend/temp_uploads/
+
+*.pth
+*.pt
+*.safetensors
+*.ckpt
+
+node_modules/
+dist/
+build/
